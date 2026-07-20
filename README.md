@@ -22,6 +22,8 @@ The user plays against the computer, and scores are tracked until the player exi
 ---
 
 ## ▶️ How to Run
+* Run Program:
+* py app.py
 
 1. Clone the repository:
 ```bash
