@@ -18,6 +18,7 @@ The user plays against the computer, and scores are tracked until the player exi
 ## 🛠️ Technologies Used
 - Python
 - Random module
+- Exception
 
 ---
 
